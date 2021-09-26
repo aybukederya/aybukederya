@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am majoring in Computer science and minoring in Psychology at McGill University. In the past, I worked on programming projects where I could merge my passions in Computer Science, Literature, and Music. I have experience in Machine Learning and Front-End Development. Alongside Computer Science, I also enjoy playing cello and reading books.
 
 <!--
 **aybukederya/aybukederya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
