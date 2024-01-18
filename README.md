@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I am a third year student McGill University, majoring in computer science with a minor in psychology. I am currently interning at NoviFlow as an Automated Test Developer.
+Hi!
 
 <!--
 **aybukederya/aybukederya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
